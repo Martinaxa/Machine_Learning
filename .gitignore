@@ -132,4 +132,4 @@ dmypy.json
 Prof/
 test/
 train/
-set_test/
+data/
